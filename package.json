@@ -1,0 +1,24 @@
+{
+  "name": "random-creative-word",
+  "version": "1.0.2",
+  "description": "randome creative word",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://supanatvee@bitbucket.org/supanatve/random-creative-word.git"
+  },
+  "keywords": [
+    "word"
+  ],
+  "author": "spnv",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/supanatve/random-creative-word#readme"
+}
